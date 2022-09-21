@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4fb9De4fD704eD6eAe5a0F62f834f60dA02E884A",
+  "SCAN_LINK": "https://etherscan.io/address/0x4fb9de4fd704ed6eae5a0f62f834f60da02e884a",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Baby MetaZilla World",
+  "SYMBOL": "BMZW",
+  "MAX_SUPPLY": 7000,
+  "WEI_COST": 4000000000000000,
+  "DISPLAY_COST": 0.004,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/baby-metazilla-world",
+  "SHOW_BACKGROUND": true
+}
